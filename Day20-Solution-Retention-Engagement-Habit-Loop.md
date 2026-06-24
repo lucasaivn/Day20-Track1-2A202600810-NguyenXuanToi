@@ -1,7 +1,7 @@
 # Day 20 Lab — Retention, Engagement & Habit Loop
 
 **Sản phẩm:** AI Trợ Lý — `ai-tro-ly.lucasnguyen.vn`
-**Track 1 — MSSV 2A202600810 — Nguyễn Xuân Tới**
+**Track 1 — Nhóm:** Nguyễn Xuân Tới (2A202600810) · Hồ Tất Bảo Hoàng (2A202600699)
 **Đầu vào:** Prototype Ngày 18 (AI Trợ Lý) + Friction Audit Ngày 18 (xem `Bai3-Friction-Audit-AITroLy.md`)
 
 ---

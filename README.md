@@ -1,6 +1,8 @@
 # Day 20 Lab — Retention, Engagement & Habit Loop
 
-**Track 1 — MSSV 2A202600810 — Nguyễn Xuân Tới**
+**Track 1 — Nhóm:**
+- Nguyễn Xuân Tới — 2A202600810
+- Hồ Tất Bảo Hoàng — 2A202600699
 
 Sản phẩm phân tích: **AI Trợ Lý** — [`ai-tro-ly.lucasnguyen.vn`](https://ai-tro-ly.lucasnguyen.vn)
 (Nền tảng dạy nhân viên văn phòng tự dùng AI bằng thực hành; persona chính: HR.)
